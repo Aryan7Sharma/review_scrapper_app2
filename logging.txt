@@ -1,0 +1,86 @@
+app.py: INFO: flipkart url -- https://www.flipkart.com/search?q=Iphone-7: 2022-09-21 15:31:47,081
+app.py: INFO: product link captured -- https://www.flipkart.com/apple-iphone-7-black-32-gb/p/itmen6daftcqwzeg?pid=MOBEMK62PN2HU7EE&lid=LSTMOBEMK62PN2HU7EEINTGNU&marketplace=FLIPKART&q=Iphone-7&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=f85bb2e7-a816-4be4-81e2-d837a36d4ea7.MOBEMK62PN2HU7EE.SEARCH&ppt=None&ppn=None&ssid=hq8lgxkmw00000001663754508024&qH=ba859e92ebe7000f: 2022-09-21 15:31:49,041
+app.py: INFO: Comment Section Url is Captured -- https://www.flipkart.com/apple-iphone-7-black-32-gb/product-reviews/itmen6daftcqwzeg?pid=MOBEMK62PN2HU7EE&lid=LSTMOBEMK62PN2HU7EEINTGNU&marketplace=FLIPKART&page=0: 2022-09-21 15:31:50,812
+app.py: INFO: every page url index--1, --https://www.flipkart.com/apple-iphone-7-black-32-gb/product-reviews/itmen6daftcqwzeg?pid=MOBEMK62PN2HU7EE&lid=LSTMOBEMK62PN2HU7EEINTGNU&marketplace=FLIPKART&page=1: 2022-09-21 15:31:50,812
+app.py: INFO: scrapping name of page 1: 2022-09-21 15:31:52,077
+app.py: INFO: scrapping locationOf_user of page 1: 2022-09-21 15:31:52,078
+app.py: INFO: scrapping rating of page 1: 2022-09-21 15:31:52,078
+app.py: INFO: scrapping comment heading of page 1: 2022-09-21 15:31:52,078
+app.py: INFO: scrapping long_comment of page 1: 2022-09-21 15:31:52,078
+app.py: INFO: scrapping verified or Not of page 1: 2022-09-21 15:31:52,078
+app.py: INFO: scrapping Likes on the comments of page 1: 2022-09-21 15:31:52,078
+app.py: INFO: scrapping Dislikes on the comments of page 1: 2022-09-21 15:31:52,078
+app.py: INFO: scrapping name of page 1: 2022-09-21 15:31:52,078
+app.py: INFO: scrapping locationOf_user of page 1: 2022-09-21 15:31:52,079
+app.py: INFO: scrapping rating of page 1: 2022-09-21 15:31:52,079
+app.py: INFO: scrapping comment heading of page 1: 2022-09-21 15:31:52,079
+app.py: INFO: scrapping long_comment of page 1: 2022-09-21 15:31:52,079
+app.py: INFO: scrapping verified or Not of page 1: 2022-09-21 15:31:52,079
+app.py: INFO: scrapping Likes on the comments of page 1: 2022-09-21 15:31:52,079
+app.py: INFO: scrapping Dislikes on the comments of page 1: 2022-09-21 15:31:52,079
+app.py: INFO: scrapping name of page 1: 2022-09-21 15:31:52,079
+app.py: INFO: scrapping locationOf_user of page 1: 2022-09-21 15:31:52,079
+app.py: INFO: scrapping rating of page 1: 2022-09-21 15:31:52,079
+app.py: INFO: scrapping comment heading of page 1: 2022-09-21 15:31:52,079
+app.py: INFO: scrapping long_comment of page 1: 2022-09-21 15:31:52,079
+app.py: INFO: scrapping verified or Not of page 1: 2022-09-21 15:31:52,080
+app.py: INFO: scrapping Likes on the comments of page 1: 2022-09-21 15:31:52,080
+app.py: INFO: scrapping Dislikes on the comments of page 1: 2022-09-21 15:31:52,080
+app.py: INFO: scrapping name of page 1: 2022-09-21 15:31:52,080
+app.py: INFO: scrapping locationOf_user of page 1: 2022-09-21 15:31:52,080
+app.py: INFO: scrapping rating of page 1: 2022-09-21 15:31:52,080
+app.py: INFO: scrapping comment heading of page 1: 2022-09-21 15:31:52,080
+app.py: INFO: scrapping long_comment of page 1: 2022-09-21 15:31:52,080
+app.py: INFO: scrapping verified or Not of page 1: 2022-09-21 15:31:52,081
+app.py: INFO: scrapping Likes on the comments of page 1: 2022-09-21 15:31:52,081
+app.py: INFO: scrapping Dislikes on the comments of page 1: 2022-09-21 15:31:52,081
+app.py: INFO: scrapping name of page 1: 2022-09-21 15:31:52,081
+app.py: INFO: scrapping locationOf_user of page 1: 2022-09-21 15:31:52,081
+app.py: INFO: scrapping rating of page 1: 2022-09-21 15:31:52,081
+app.py: INFO: scrapping comment heading of page 1: 2022-09-21 15:31:52,081
+app.py: INFO: scrapping long_comment of page 1: 2022-09-21 15:31:52,081
+app.py: INFO: scrapping verified or Not of page 1: 2022-09-21 15:31:52,082
+app.py: INFO: scrapping Likes on the comments of page 1: 2022-09-21 15:31:52,082
+app.py: INFO: scrapping Dislikes on the comments of page 1: 2022-09-21 15:31:52,082
+app.py: INFO: scrapping name of page 1: 2022-09-21 15:31:52,082
+app.py: INFO: scrapping locationOf_user of page 1: 2022-09-21 15:31:52,082
+app.py: INFO: scrapping rating of page 1: 2022-09-21 15:31:52,083
+app.py: INFO: scrapping comment heading of page 1: 2022-09-21 15:31:52,083
+app.py: INFO: scrapping long_comment of page 1: 2022-09-21 15:31:52,083
+app.py: INFO: scrapping verified or Not of page 1: 2022-09-21 15:31:52,083
+app.py: INFO: scrapping Likes on the comments of page 1: 2022-09-21 15:31:52,083
+app.py: INFO: scrapping Dislikes on the comments of page 1: 2022-09-21 15:31:52,083
+app.py: INFO: scrapping name of page 1: 2022-09-21 15:31:52,083
+app.py: INFO: scrapping locationOf_user of page 1: 2022-09-21 15:31:52,083
+app.py: INFO: scrapping rating of page 1: 2022-09-21 15:31:52,083
+app.py: INFO: scrapping comment heading of page 1: 2022-09-21 15:31:52,083
+app.py: INFO: scrapping long_comment of page 1: 2022-09-21 15:31:52,083
+app.py: INFO: scrapping verified or Not of page 1: 2022-09-21 15:31:52,084
+app.py: INFO: scrapping Likes on the comments of page 1: 2022-09-21 15:31:52,084
+app.py: INFO: scrapping Dislikes on the comments of page 1: 2022-09-21 15:31:52,084
+app.py: INFO: scrapping name of page 1: 2022-09-21 15:31:52,084
+app.py: INFO: scrapping locationOf_user of page 1: 2022-09-21 15:31:52,084
+app.py: INFO: scrapping rating of page 1: 2022-09-21 15:31:52,084
+app.py: INFO: scrapping comment heading of page 1: 2022-09-21 15:31:52,084
+app.py: INFO: scrapping long_comment of page 1: 2022-09-21 15:31:52,084
+app.py: INFO: scrapping verified or Not of page 1: 2022-09-21 15:31:52,085
+app.py: INFO: scrapping Likes on the comments of page 1: 2022-09-21 15:31:52,085
+app.py: INFO: scrapping Dislikes on the comments of page 1: 2022-09-21 15:31:52,085
+app.py: INFO: scrapping name of page 1: 2022-09-21 15:31:52,085
+app.py: INFO: scrapping locationOf_user of page 1: 2022-09-21 15:31:52,085
+app.py: INFO: scrapping rating of page 1: 2022-09-21 15:31:52,085
+app.py: INFO: scrapping comment heading of page 1: 2022-09-21 15:31:52,085
+app.py: INFO: scrapping long_comment of page 1: 2022-09-21 15:31:52,085
+app.py: INFO: scrapping verified or Not of page 1: 2022-09-21 15:31:52,085
+app.py: INFO: scrapping Likes on the comments of page 1: 2022-09-21 15:31:52,086
+app.py: INFO: scrapping Dislikes on the comments of page 1: 2022-09-21 15:31:52,086
+app.py: INFO: scrapping name of page 1: 2022-09-21 15:31:52,086
+app.py: INFO: scrapping locationOf_user of page 1: 2022-09-21 15:31:52,086
+app.py: INFO: scrapping rating of page 1: 2022-09-21 15:31:52,086
+app.py: INFO: scrapping comment heading of page 1: 2022-09-21 15:31:52,086
+app.py: INFO: scrapping long_comment of page 1: 2022-09-21 15:31:52,086
+app.py: INFO: scrapping verified or Not of page 1: 2022-09-21 15:31:52,086
+app.py: INFO: scrapping Likes on the comments of page 1: 2022-09-21 15:31:52,086
+app.py: INFO: scrapping Dislikes on the comments of page 1: 2022-09-21 15:31:52,086
+_internal.py: INFO: 127.0.0.1 - - [21/Sep/2022 15:31:52] "[37mPOST /review HTTP/1.1[0m" 200 -: 2022-09-21 15:31:52,090
+_internal.py: INFO: 127.0.0.1 - - [21/Sep/2022 15:31:52] "[33mGET /style.css HTTP/1.1[0m" 404 -: 2022-09-21 15:31:52,103
