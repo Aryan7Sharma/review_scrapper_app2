@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup as bs
 from urllib.request import urlopen as uReq
 from local_logger import logss as lg
 import mongo_db
+import pandas as pd
 app = Flask(__name__)
 
 @app.route('/',methods=['GET'])  # route to display the home page
@@ -38,10 +39,9 @@ def index():
             comment_section_pages_section = prod_html.find('div', {'class': "col JOpGWq"})
             comment_section_pages_url = comment_section_pages_section.findAll('a')[-1]['href']
             comment_section_pages_url = "https://www.flipkart.com"+comment_section_pages_url+"&page=0"
-            #filename = searchString + ".csv"
-            #fw = open(filename, "w")
-            #headers = "Product, Customer Name, Rating, Heading, Comment \n"
-            #fw.write(headers)
+            header = {"Index": [], "Product": [], "Name": [], "Location": [], "Rating": [], "CommentHead": [],
+                          "Comment": [], "Verification": [], "Likes": [], "Dislikes": [], "URL": []}
+            df = pd.DataFrame(header)
             reviews = []
             index = 1
             pages = no_of_reviews//10
@@ -136,9 +136,12 @@ def index():
                     mydict = {"Index": index, "Product": searchString, "Name": name, "Location": locaton, "Rating": rating, "CommentHead": commentHead,
                           "Comment": custComment, "Verification": verified, "Likes": likes, "Dislikes": dislikes, "URL": every_page_url}
                     reviews.append(mydict)
+                    df = df.append(mydict, ignore_index=True)
                     index+=1
                 if index >= no_of_reviews:
                     break
+
+            df.to_csv('static/Scrapped_data.csv', index=0)
             return render_template('results.html', reviews=reviews[0:no_of_reviews])
         except Exception as e:
             lg().info('The Exception message is: ', e)
